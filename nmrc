@@ -1,0 +1,8 @@
+# This is a config file for the note maker
+# change the values below to fit your needs
+
+# where to save the notes
+#save_path = /path/to/save/location
+
+# add todays date as suffix to created notes
+#date_files = false
